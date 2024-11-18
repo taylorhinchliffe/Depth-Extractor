@@ -1,0 +1,554 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXContainerItemProxy section */
+		8A493E632CD8228C004CAD51 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 8A493E472CD8228A004CAD51 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 8A493E4E2CD8228A004CAD51;
+			remoteInfo = "3D Image Capture V1";
+		};
+		8A493E6D2CD8228C004CAD51 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 8A493E472CD8228A004CAD51 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 8A493E4E2CD8228A004CAD51;
+			remoteInfo = "3D Image Capture V1";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		8A493E4F2CD8228A004CAD51 /* 3D Image Capture V1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "3D Image Capture V1.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		8A493E622CD8228C004CAD51 /* 3D Image Capture V1Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "3D Image Capture V1Tests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		8A493E6C2CD8228C004CAD51 /* 3D Image Capture V1UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "3D Image Capture V1UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		8A493E512CD8228A004CAD51 /* 3D Image Capture V1 */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "3D Image Capture V1";
+			sourceTree = "<group>";
+		};
+		8A493E652CD8228C004CAD51 /* 3D Image Capture V1Tests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "3D Image Capture V1Tests";
+			sourceTree = "<group>";
+		};
+		8A493E6F2CD8228C004CAD51 /* 3D Image Capture V1UITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "3D Image Capture V1UITests";
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		8A493E4C2CD8228A004CAD51 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8A493E5F2CD8228C004CAD51 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8A493E692CD8228C004CAD51 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		8A493E462CD8228A004CAD51 = {
+			isa = PBXGroup;
+			children = (
+				8A493E512CD8228A004CAD51 /* 3D Image Capture V1 */,
+				8A493E652CD8228C004CAD51 /* 3D Image Capture V1Tests */,
+				8A493E6F2CD8228C004CAD51 /* 3D Image Capture V1UITests */,
+				8A493E502CD8228A004CAD51 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		8A493E502CD8228A004CAD51 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				8A493E4F2CD8228A004CAD51 /* 3D Image Capture V1.app */,
+				8A493E622CD8228C004CAD51 /* 3D Image Capture V1Tests.xctest */,
+				8A493E6C2CD8228C004CAD51 /* 3D Image Capture V1UITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		8A493E4E2CD8228A004CAD51 /* 3D Image Capture V1 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 8A493E762CD8228C004CAD51 /* Build configuration list for PBXNativeTarget "3D Image Capture V1" */;
+			buildPhases = (
+				8A493E4B2CD8228A004CAD51 /* Sources */,
+				8A493E4C2CD8228A004CAD51 /* Frameworks */,
+				8A493E4D2CD8228A004CAD51 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				8A493E512CD8228A004CAD51 /* 3D Image Capture V1 */,
+			);
+			name = "3D Image Capture V1";
+			packageProductDependencies = (
+			);
+			productName = "3D Image Capture V1";
+			productReference = 8A493E4F2CD8228A004CAD51 /* 3D Image Capture V1.app */;
+			productType = "com.apple.product-type.application";
+		};
+		8A493E612CD8228C004CAD51 /* 3D Image Capture V1Tests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 8A493E792CD8228C004CAD51 /* Build configuration list for PBXNativeTarget "3D Image Capture V1Tests" */;
+			buildPhases = (
+				8A493E5E2CD8228C004CAD51 /* Sources */,
+				8A493E5F2CD8228C004CAD51 /* Frameworks */,
+				8A493E602CD8228C004CAD51 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				8A493E642CD8228C004CAD51 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				8A493E652CD8228C004CAD51 /* 3D Image Capture V1Tests */,
+			);
+			name = "3D Image Capture V1Tests";
+			packageProductDependencies = (
+			);
+			productName = "3D Image Capture V1Tests";
+			productReference = 8A493E622CD8228C004CAD51 /* 3D Image Capture V1Tests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		8A493E6B2CD8228C004CAD51 /* 3D Image Capture V1UITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 8A493E7C2CD8228C004CAD51 /* Build configuration list for PBXNativeTarget "3D Image Capture V1UITests" */;
+			buildPhases = (
+				8A493E682CD8228C004CAD51 /* Sources */,
+				8A493E692CD8228C004CAD51 /* Frameworks */,
+				8A493E6A2CD8228C004CAD51 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				8A493E6E2CD8228C004CAD51 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				8A493E6F2CD8228C004CAD51 /* 3D Image Capture V1UITests */,
+			);
+			name = "3D Image Capture V1UITests";
+			packageProductDependencies = (
+			);
+			productName = "3D Image Capture V1UITests";
+			productReference = 8A493E6C2CD8228C004CAD51 /* 3D Image Capture V1UITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		8A493E472CD8228A004CAD51 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1610;
+				LastUpgradeCheck = 1610;
+				TargetAttributes = {
+					8A493E4E2CD8228A004CAD51 = {
+						CreatedOnToolsVersion = 16.1;
+					};
+					8A493E612CD8228C004CAD51 = {
+						CreatedOnToolsVersion = 16.1;
+						TestTargetID = 8A493E4E2CD8228A004CAD51;
+					};
+					8A493E6B2CD8228C004CAD51 = {
+						CreatedOnToolsVersion = 16.1;
+						TestTargetID = 8A493E4E2CD8228A004CAD51;
+					};
+				};
+			};
+			buildConfigurationList = 8A493E4A2CD8228A004CAD51 /* Build configuration list for PBXProject "3D Image Capture V1" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 8A493E462CD8228A004CAD51;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = 8A493E502CD8228A004CAD51 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				8A493E4E2CD8228A004CAD51 /* 3D Image Capture V1 */,
+				8A493E612CD8228C004CAD51 /* 3D Image Capture V1Tests */,
+				8A493E6B2CD8228C004CAD51 /* 3D Image Capture V1UITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		8A493E4D2CD8228A004CAD51 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8A493E602CD8228C004CAD51 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8A493E6A2CD8228C004CAD51 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		8A493E4B2CD8228A004CAD51 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8A493E5E2CD8228C004CAD51 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8A493E682CD8228C004CAD51 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		8A493E642CD8228C004CAD51 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 8A493E4E2CD8228A004CAD51 /* 3D Image Capture V1 */;
+			targetProxy = 8A493E632CD8228C004CAD51 /* PBXContainerItemProxy */;
+		};
+		8A493E6E2CD8228C004CAD51 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 8A493E4E2CD8228A004CAD51 /* 3D Image Capture V1 */;
+			targetProxy = 8A493E6D2CD8228C004CAD51 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		8A493E742CD8228C004CAD51 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MACOSX_DEPLOYMENT_TARGET = 15.1;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		8A493E752CD8228C004CAD51 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MACOSX_DEPLOYMENT_TARGET = 15.1;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = macosx;
+				SWIFT_COMPILATION_MODE = wholemodule;
+			};
+			name = Release;
+		};
+		8A493E772CD8228C004CAD51 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = "3D Image Capture V1/_D_Image_Capture_V1.entitlements";
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 8A58YHU842;
+				ENABLE_HARDENED_RUNTIME = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				INFOPLIST_KEY_NSMainStoryboardFile = Main;
+				INFOPLIST_KEY_NSPrincipalClass = NSApplication;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "Closer-Look-LLC.-D-Image-Capture-V1";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+		8A493E782CD8228C004CAD51 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = "3D Image Capture V1/_D_Image_Capture_V1.entitlements";
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 8A58YHU842;
+				ENABLE_HARDENED_RUNTIME = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				INFOPLIST_KEY_NSMainStoryboardFile = Main;
+				INFOPLIST_KEY_NSPrincipalClass = NSApplication;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "Closer-Look-LLC.-D-Image-Capture-V1";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+			};
+			name = Release;
+		};
+		8A493E7A2CD8228C004CAD51 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 8A58YHU842;
+				GENERATE_INFOPLIST_FILE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 15.1;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "Closer-Look-LLC.-D-Image-Capture-V1Tests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/3D Image Capture V1.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/3D Image Capture V1";
+			};
+			name = Debug;
+		};
+		8A493E7B2CD8228C004CAD51 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 8A58YHU842;
+				GENERATE_INFOPLIST_FILE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 15.1;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "Closer-Look-LLC.-D-Image-Capture-V1Tests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/3D Image Capture V1.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/3D Image Capture V1";
+			};
+			name = Release;
+		};
+		8A493E7D2CD8228C004CAD51 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 8A58YHU842;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "Closer-Look-LLC.-D-Image-Capture-V1UITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TEST_TARGET_NAME = "3D Image Capture V1";
+			};
+			name = Debug;
+		};
+		8A493E7E2CD8228C004CAD51 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 8A58YHU842;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "Closer-Look-LLC.-D-Image-Capture-V1UITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TEST_TARGET_NAME = "3D Image Capture V1";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		8A493E4A2CD8228A004CAD51 /* Build configuration list for PBXProject "3D Image Capture V1" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8A493E742CD8228C004CAD51 /* Debug */,
+				8A493E752CD8228C004CAD51 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		8A493E762CD8228C004CAD51 /* Build configuration list for PBXNativeTarget "3D Image Capture V1" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8A493E772CD8228C004CAD51 /* Debug */,
+				8A493E782CD8228C004CAD51 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		8A493E792CD8228C004CAD51 /* Build configuration list for PBXNativeTarget "3D Image Capture V1Tests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8A493E7A2CD8228C004CAD51 /* Debug */,
+				8A493E7B2CD8228C004CAD51 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		8A493E7C2CD8228C004CAD51 /* Build configuration list for PBXNativeTarget "3D Image Capture V1UITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8A493E7D2CD8228C004CAD51 /* Debug */,
+				8A493E7E2CD8228C004CAD51 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 8A493E472CD8228A004CAD51 /* Project object */;
+}
