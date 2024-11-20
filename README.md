@@ -13,10 +13,10 @@ This simple MacOS prototype allows the user to easily view depth information fro
 ## Usage:
 1. Take an iPhone image in portrait mode. 
 2. Concert the image to .heic format. 
-3. Run the app and click "load photo.
+3. Run the app and click "load photo".
 
 ## Best Practices:
-1. Depth information can be scaled within the Xcode project, in the renderPixelSquares function, at the line "let depthScale: Float = ___. 
+1. Depth information can be scaled within the Xcode project, in the renderPixelSquares function, at the line "let depthScale: Float = ___". 
 Try ranges such as 100 to 10,000.
 
 ## Contributing
